@@ -12,3 +12,5 @@ When the user enters the homepage of this application, they are greeted with a l
 ## Deployed Application
 
 ## Author
+
+https://github.com/NicholasLysons/Tech-Blog
